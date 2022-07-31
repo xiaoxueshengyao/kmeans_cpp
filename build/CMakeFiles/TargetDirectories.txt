@@ -1,0 +1,4 @@
+/home/cap/code/test/common_algo/kmeans_cpp/build/CMakeFiles/rebuild_cache.dir
+/home/cap/code/test/common_algo/kmeans_cpp/build/CMakeFiles/edit_cache.dir
+/home/cap/code/test/common_algo/kmeans_cpp/build/CMakeFiles/kmeans_test.dir
+/home/cap/code/test/common_algo/kmeans_cpp/build/CMakeFiles/kmeans_lib.dir

@@ -1,0 +1,1 @@
+/usr/bin/c++   -std=c++11  -rdynamic CMakeFiles/kmeans_test.dir/test.cpp.o  -o kmeans_test  libkmeans_lib.a 

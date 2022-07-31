@@ -1,0 +1,34 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+../include/kmeans.hpp
+map
+-
+string
+-
+vector
+-
+points.hpp
+../include/points.hpp
+
+../include/points.hpp
+vector
+-
+iostream
+-
+
+/home/cap/code/test/common_algo/kmeans_cpp/test.cpp
+iostream
+-
+vector
+-
+points.hpp
+/home/cap/code/test/common_algo/kmeans_cpp/points.hpp
+kmeans.hpp
+/home/cap/code/test/common_algo/kmeans_cpp/kmeans.hpp
+
